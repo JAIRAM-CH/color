@@ -1,3 +1,0 @@
-# color
-just it is a basic project
-just now i edited after creation of readme file...
